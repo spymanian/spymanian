@@ -4,7 +4,7 @@ Hi 👋 My name is Aakash M.
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
-* 🧠  I'm learning Python, Tensorflow, HTML, C, and other Computer Science Topics and Fundamentals
+* 🧠  I'm learning Python, Java, C, C# and other Computer Science Topics and Fundamentals
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning and Data Science
 * 🎮 I also like Game Creation and I can work in Unity, Godot, or Unreal Engine
 ### Skills
