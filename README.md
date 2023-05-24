@@ -13,6 +13,10 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 * 🔭 I’m currently working on a Unity Game for a Club and Sentiment Analysis for Youtube
 * ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with million of global user
 
+ <div align="center">
+<img src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif" align="right">
+  </div>
+  
 ### Skills
 
 <p align="left">
@@ -35,7 +39,4 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spymanian&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spymanian&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
-<img src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif" align="center">
-  </div>
 
