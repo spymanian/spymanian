@@ -35,6 +35,7 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spymanian&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spymanian&theme=dark)](https://git.io/streak-stats)
 
-
-
+<div align="center">
+<img src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif" align="center">
+  </div>
 
