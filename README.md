@@ -5,14 +5,10 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
 * 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
-* ⚡  I'm interested in Artificial Intelligence/Machine Learning and Data Science
+* ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
 * 🎮 I also like Game Development and I can work in Unity, Godot, or Unreal Engine
 * 🔭 I’m currently working on a Unity Game for a Club and Sentiment Analysis for Youtube
 * ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with million of global user
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ### Skills
 
@@ -28,4 +24,4 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/spymanian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/spymanian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrmaakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
