@@ -1,4 +1,4 @@
-Hello, my name is Aakash M. 😎
+Hello, my name is Aakash M! 😎
 ==============================
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
