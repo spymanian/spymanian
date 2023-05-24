@@ -15,7 +15,7 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 * 🔭 I’m currently working on a Unity Game for a Club and Sentiment Analysis for Youtube
 * ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with million of global user
 * 📝 I regularly write articles on [spymanianthoughts.wordpress.com](spymanianthoughts.wordpress.com)
-* ⚡ Fun fact **I like to make comedic content**
+* ⚡ Fun fact:  **I like to make comedic content**
 
 ### Skills
 
