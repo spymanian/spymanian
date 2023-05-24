@@ -5,18 +5,16 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
 
-
-
+<div align="center">
+<img src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif" align="right">
+  </div>
+  
 * 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
 * 🎮 I also like Game Development and I can work in Unity, Godot, or Unreal Engine
 * 🔭 I’m currently working on a Unity Game for a Club and Sentiment Analysis for Youtube
 * ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with million of global user
 
- <div align="center">
-<img src="https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif" align="right">
-  </div>
-  
 ### Skills
 
 <p align="left">
