@@ -2,7 +2,6 @@ Hi 👋 My name is Aakash M.
 ==========================
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
 
-### About Me
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
