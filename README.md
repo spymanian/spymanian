@@ -25,3 +25,5 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/spymanian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrmaakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=spymanian)](https://github.com/anuraghazra/github-readme-stats)
