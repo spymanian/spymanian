@@ -1,9 +1,13 @@
 Hi 👋 My name is Aakash M.
 ==========================
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
-
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 * 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
