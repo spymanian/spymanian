@@ -4,9 +4,16 @@ Hi 👋 My name is Aakash M.
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
-* 🧠  I'm learning Python, Java, C, C#, and other Computer Science Topics and Fundamentals
+* 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning and Data Science
 * 🎮 I also like Game Development and I can work in Unity, Godot, or Unreal Engine
+* 🔭 I’m currently working on a Unity Game for a Club and Sentiment Analysis for Youtube
+* ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with million of global user
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ### Skills
 
 <p align="left">
