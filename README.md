@@ -1,12 +1,15 @@
 Hello, my name is Aakash M! 😎
 ==============================
+<div align="center">
+<img src="" align="right">
+  </div>
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
 
 <div align="center">
-<img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" align="right">
+<img src="https://github.com/spymanian/spymanian/blob/master/Illustration2.jpg" align="right">
   </div>
   
 * 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
