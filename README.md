@@ -12,7 +12,7 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 * 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
 * 🎮 I also like Game Development and I can work in Unity, Godot, or Unreal Engine
-* 🔭 I’m currently working on a Unity Game for a Club and a Discord Bot that funny features
+* 🔭 I’m currently working on a Unity Game for a Club and a Discord Bot that has funny features
 * ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with millions of global users
 * 📝 I regularly write articles on [spymanianthoughts.wordpress.com](https://spymanianthoughts.wordpress.com)
 * ⚡ Fun fact:  **I like to make comedic content**
