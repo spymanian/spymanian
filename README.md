@@ -1,8 +1,5 @@
 Hello, my name is Aakash M! 😎
 ==============================
-<div align="center">
-<img src="https://github.com/spymanian/spymanian/blob/master/Illustration2.jpg" align="right">
-  </div>
 Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
@@ -31,6 +28,9 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 
 ---
 ### My Github Stats:
+<div align="center">
+<img src="https://github.com/spymanian/spymanian/blob/master/Illustration2.jpg" align="right">
+  </div>
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=Spymanian&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spymanian&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spymanian&theme=dark)](https://git.io/streak-stats)
