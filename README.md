@@ -15,7 +15,7 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 * 🔭 I’m currently working on a Unity Game for a Club and a Discord Bot that has funny features
 * ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with millions of global users
 * 📝 I regularly write articles on [spymanianthoughts.wordpress.com](https://spymanianthoughts.wordpress.com)
-* ⚡ Fun fact:  **I am big fan of Premier League Soccer and love to watch content on Youtube and Twitch**
+* ⚡ Fun fact:  **I am a big fan of Premier League Soccer and love to watch content on Youtube and Twitch**
 
 ### Languages and Tools:
 
@@ -25,6 +25,15 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/spymanian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrmaakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“The only thing we have to fear is fear itself.”— Franklin D. Roosevelt   </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
 
 ---
 <details>
