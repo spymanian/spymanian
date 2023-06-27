@@ -27,8 +27,12 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 <p align="left"> <a href="https://www.github.com/spymanian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrmaakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
-### My Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spymanian&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spymanian&theme=dark)](https://git.io/streak-stats)
-
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Spymanian&theme=dark">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spymanian&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
 
