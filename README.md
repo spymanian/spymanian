@@ -31,7 +31,7 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The only thing we have to fear is fear itself.”— Franklin D. Roosevelt   </i>
+• <i>"We suffer more often in imagination than in reality."  – Seneca   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
