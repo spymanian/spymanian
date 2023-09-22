@@ -9,11 +9,11 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" align="right">
   </div>
   
-* 🧠  I'm learning Python, Java, C, C#, HTML, and other Computer Science Topics and Fundamentals
+* 🧠 I program in Python, Java, C, C#, C++, HTML
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
-* 🎮 I also like Game Development and I can work in Unity, Godot, or Unreal Engine
-* 🔭 I’m currently working on a Unity Game for a Club and a Discord Bot that has funny features
-* ❤️ I love Content Creation and I am interested in understanding how Youtube and Twitch handle their video sharing/streaming platforms with millions of global users
+* 🎮 I also like Game Development and I'm developing short mini-games for a Mini Game Party Suite
+* 🔭 I’m currently working on building my Rust Knowledge and hoping to create a project in Rust or C++
+* ❤️ I love Content Creation and I am interested in understanding how YouTube and Twitch handle their video-sharing/streaming platforms with millions of global users
 * 📝 I regularly write articles on [spymanianthoughts.wordpress.com](https://spymanianthoughts.wordpress.com)
 * ⚡ Fun fact:  **I am a big fan of Premier League Soccer and love to watch content on Youtube and Twitch**
 
