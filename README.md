@@ -4,10 +4,6 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 ------------------------------------------------------------------------
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
-
-<div align="center">
-<img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" align="right">
-  </div>
   
 * 🧠 I program in Python, Java, C, C#, C++, HTML
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
