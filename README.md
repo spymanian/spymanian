@@ -1,14 +1,15 @@
 Hello, my name is Aakash M! 😎
 ==============================
-Rutgers Undergraduate Student Studying Computer Science and Data Science
+Data Scientist & Software Developer at Rutgers
 ------------------------------------------------------------------------
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
   
 * 🧠 I program in Python, Java, C, C#, C++, HTML
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
-* 🎮 I also like Game Development and I'm developing short mini-games for a Mini Game Party Suite
-* 🔭 I'm developing games in Godot and Unreal Engine using C# and C++. One of the games I am working on focuses on Farming.
+* 🎮 I also like Game Development
+* 🔭 I'm CURRENTLY developing games in Godot and Unreal Engine using C# and C++. One of the games I am working on focuses on Farming.
+* 🌠 I also use Tensorflow to help with creating various prediction models for data science projects like classifying emotions on manga faces.
 * ❤️ I love Content Creation and I am interested in understanding how YouTube and Twitch handle their video-sharing/streaming platforms with millions of global users
 * 📝 I have my projects on [https://maakash.super.site/](https://maakash.super.site/)
 * ⚡ Fun fact:  **I am a big fan of Premier League Football and love to watch content on Youtube and Twitch**
