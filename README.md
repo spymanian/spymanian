@@ -10,13 +10,8 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 * 🎮 I also like Game Development and I'm developing short mini-games for a Mini Game Party Suite
 * 🔭 I'm developing games in Godot and Unreal Engine using C# and C++. One of the games I am working on focuses on Farming.
 * ❤️ I love Content Creation and I am interested in understanding how YouTube and Twitch handle their video-sharing/streaming platforms with millions of global users
-* 📝 I regularly write articles on [spymanianthoughts.wordpress.com](https://spymanianthoughts.wordpress.com)
+* 📝 I have my projects on [https://maakash.super.site/](https://maakash.super.site/)
 * ⚡ Fun fact:  **I am a big fan of Premier League Football and love to watch content on Youtube and Twitch**
-
-<div align="center">
-<img src="https://media2.giphy.com/media/UygWiWMQZE6WifSQWE/200w.gif?cid=6c09b9527bfn5ic3qd912cennbodz0mz6mp56dgp3jg117kj&ep=v1_gifs_search&rid=200w.gif&ct=g" align="center">
-  </div>
-
 
 
   
