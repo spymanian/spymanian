@@ -8,7 +8,7 @@ Rutgers Undergraduate Student Studying Computer Science and Data Science
 * 🧠 I program in Python, Java, C, C#, C++, HTML
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
 * 🎮 I also like Game Development and I'm developing short mini-games for a Mini Game Party Suite
-* 🔭 I’m currently working on building my Rust Knowledge and hoping to create a project in Rust or C++
+* 🔭 I'm developing games in Godot and Unreal Engine using C# and C++. One of the games I am working on focuses on Farming.
 * ❤️ I love Content Creation and I am interested in understanding how YouTube and Twitch handle their video-sharing/streaming platforms with millions of global users
 * 📝 I regularly write articles on [spymanianthoughts.wordpress.com](https://spymanianthoughts.wordpress.com)
 * ⚡ Fun fact:  **I am a big fan of Premier League Football and love to watch content on Youtube and Twitch**
