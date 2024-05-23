@@ -26,7 +26,6 @@ Data Scientist & Software Developer at Rutgers
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Quote that sticks with me:
-<a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>"You will face many defeats in life, but never let yourself be defeated"  — Maya Angelou   </i>
 <!--ENDS_HERE_QUOTE_README-->
