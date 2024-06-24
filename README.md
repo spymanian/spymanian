@@ -5,11 +5,10 @@ Data Scientist & Software Developer at Rutgers
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
   
-* 🧠 I program in Python, Java, C, C#, C++, HTML
-* ⚡  I'm interested in Artificial Intelligence/Machine Learning, Data Science, and Game Development
+* 🧠 I program with Python, Java, C, C#, C++, React, and Next.js
+* ⚡  I'm interested in Artificial Intelligence/Machine Learning, Full Stack, Data Science
 * 🎮 I also like Game Development
-* 🔭 I'm CURRENTLY developing games in Godot and Unreal Engine using C# and C++. One of the games I am working on focuses on FPS with Farming Elements.
-* 🌠 I also use Tensorflow to help with creating various prediction models for data science projects like classifying emotions on manga faces.
+* 🔭 I'm CURRENTLY developing an AI-Generated Text Adventure Application.
 * ❤️ I love Content Creation and I am interested in understanding how YouTube and Twitch handle their video-sharing/streaming platforms with millions of global users
 * 📝 I have my projects on [https://maakash.super.site/](https://maakash.super.site/)
   
