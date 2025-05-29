@@ -1,17 +1,16 @@
-Hello, my name is Aakash M! 😎
+Hey there, folks! 👋
 ==============================
-Data Scientist & Software Developer at Rutgers
-------------------------------------------------------------------------
+I’m _Aakash M_, a curious creator who codes, crafts stories, and sometimes turns both into games. I'm currently pursuing a Bachelor of Science in Computer Science at Rutgers University, with minors in Data Science and Philosophy. I’m a multi-hyphenate: a software developer, AI tinkerer, game designer, aspiring filmmaker, and storyteller at heart. 🎥💻🎮 I'm passionate about building AI-powered tools, interactive experiences, and creative systems that empower others — whether that’s through intuitive UI, immersive gameplay, or storytelling frameworks. My skills stretch across Python, Java, C#, C++, JavaScript, and frameworks like Next.js, React, Flask, and Godot. I’ve led projects in game development, AI research, and hackathons, and I’ve taught filmmaking and YouTube creation at camps in the San Francisco Bay Area. Let’s just say I enjoy living at the intersection of art and algorithms.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spymanian.spymanian)
-  
+### 🌱 What do I do and What have I done?  
 * 🧠 I program with Python, Java, C, C#, C++, React, and Next.js
 * ⚡  I'm interested in Artificial Intelligence/Machine Learning, Full Stack, Data Science
-* 🎮 I also like Game Development
-* 🔭 I'm CURRENTLY developing an AI-Generated Text Adventure Application.
+* 🎮 I also like Game Development (Godot and Unity Dev)
 * ❤️ I love Content Creation and I am interested in understanding how YouTube and Twitch handle their video-sharing/streaming platforms with millions of global users
 * 📝 I have my projects on [https://maakash.super.site/](https://maakash.super.site/)
-  
+
+### ⚡ One line that describes me best?
+A builder of code, games, and cinematic dreams occasionally all at once. 🎬🕹️👨‍💻
 
 ### Languages and Tools:
 
@@ -22,13 +21,12 @@ Data Scientist & Software Developer at Rutgers
 
 <p align="left"> <a href="https://www.github.com/spymanian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrmaakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
----
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/spymanian/count.svg" />
+</p>
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Quote that sticks with me:
-<!--STARTS_HERE_QUOTE_README-->
-• <i>"You will face many defeats in life, but never let yourself be defeated"  — Maya Angelou   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+<img src="stats.gif" width="90%"><br/><br/>
 
 ---
 <details>
